@@ -1,0 +1,15 @@
+﻿Business,Website,FarmerOrBuyer,FarmersOrBuyers1,Street,City ,State,Zip,latitude,longitude,mu,# of people per meal,Meals per year,lbs of kale per serving,Notes,More Notes,Transaction1,Transaction2,Transaction3
+Vassar College,https://www.vassar.edu/,Buyer,-1,124 Raymond Avenue,Poughkeepsie,NY,12604,,,114660,3185,240,0.15,1 cup serving,number of students*1.3,,,
+Bard College,http://www.bard.edu/,Buyer,-1,1400 Annandale Road,Annandale-on-the-Hudson,NY,12504,,,96012,2667,240,0.15,1 cup serving,number of students*1.3,,,
+SUNY New Paltz,https://www.newpaltz.edu/,Buyer,-1,1 Hawk Drive,New Paltz,NY,12561,,,356076,9891,240,0.15,1 cup serving,number of students*1.3,,,
+Woodland Pond,https://wpatnp.org/,Buyer,-1,100 Woodland Pond Circle,New Paltz,NY,12561,,,8280,230,240,0.15,1 cup serving,number of apts*1.3,,,
+Hearty Roots Community Farm,https://www.heartyroots.com/contact-us/,Farmer,1,1822 Route 9,Germantown,NY,12526,,,1920,,,,,,1,-1,1
+Taliaferro Farms,https://www.taliaferrofarms.com/,Farmer,1,187 Plains Road,New Paltz,NY,12561,,,1920,,,,,,-1,1,-1
+Alewife Farm,http://alewifefarm.com/,Farmer,1,200 Esopus Ave,Kingston,NY,12401,,,1920,,,,,,1,1,1
+Poughkeepsie Farm Project,https://www.farmproject.org/,Farmer,1,51 Vassar Farm Lane,Poughkeepsie,NY,12603,,,1920,,,,,,1,-1,1
+Sparrowbush Farm,https://sparrowbushfarm.com/the-farm,Farmer,1,2409 Route 9,Hudson,NY,12534,,,1920,,,,,,-1,1,-1
+Evolutionary Organics,https://www.evolutionaryorganics.com/,Farmer,1,283 Springtown Road,New Paltz,NY,12561,,,1920,,,,,,1,1,1
+Huguenot Street Farm,https://www.huguenotfarm.com/,Farmer,1,205 Huguenot Street,New Paltz,NY,12561,,,1920,,,,,,1,-1,1
+Letterbox Farm,http://www.letterboxfarm.com/,Farmer,1,4161 Route 9 ,Hudson,NY,12534,,,10786.68,,,,,,1,1,1
+Second Wind CSA,https://secondwindcsa.com/csa2019/,Farmer,1,158 Marabac Road,Gardiner,NY,12525,,,10786.68,,,,,,1,-1,1
+Solid Ground Farm,http://solidground.farm/,Farmer,1,205 Hidden Valley Road,Kingston,NY,12401,,,10786.68,,,,,,-1,1,-1
