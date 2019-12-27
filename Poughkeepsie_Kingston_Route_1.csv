@@ -1,0 +1,15 @@
+﻿Business,,,,,,,Zip,latitude,longitude,mu,# of people per meal,Meals per year,lbs of kale per serving,Notes,More Notes,Transaction1,Transaction2,Transaction3
+Buyer1,,,,,,,12604,,,114660,3185,240,0.15,1 cup serving,number of students*1.3,,,
+Buyer2,,,,,,,12504,,,96012,2667,240,0.15,1 cup serving,number of students*1.3,,,
+Buyer3,,,,,,,12561,,,356076,9891,240,0.15,1 cup serving,number of students*1.3,,,
+Buyer4,,,,,,,12561,,,8280,230,240,0.15,1 cup serving,number of apts*1.3,,,
+Farm1,,,,,,,12526,,,1920,,,,,,1,-1,1
+Farm2,,,,,,,12561,,,1920,,,,,,-1,1,-1
+Farm3,,,,,,,12401,,,1920,,,,,,1,1,1
+Farm4,,,,,,,12603,,,1920,,,,,,1,-1,1
+Farm5,,,,,,,12534,,,1920,,,,,,-1,1,-1
+Farm6,,,,,,,12561,,,10786.68,,,,,,1,1,1
+Farm7,,,,,,,12561,,,10786.68,,,,,,1,-1,1
+Farm8,,,,,,,12534,,,10786.68,,,,,,1,1,1
+Farm9,,,,,,,12525,,,10786.68,,,,,,1,-1,1
+Farm10,,,,,,,12401,,,10786.68,,,,,,-1,1,-1
